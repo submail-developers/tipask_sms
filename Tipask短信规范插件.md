@@ -12,3 +12,6 @@ How to use
     3:进入后台，填入Appid 和Signature，签名 以及模板ID（project）
 
 ![Submail](./markdown/1.png)
+
+[点击下载](https://github.com/submail-developers/tipask_sms/archive/master.zip)
+
