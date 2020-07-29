@@ -2,7 +2,15 @@
 
 ### Tipask Plug-Ins Overview
 
+>Tipask旨在为大家提供开源、稳定、功能强大的、值得使用的问答系统。
+
+Tipask  [官网地址](https://www.tipask.com/)
+
 ------
+-	app/Services/SmsService.php
+-	config/submailsms.php
+-	resources/views/admin/setting/sms.blade.php
+
 
 How to use
 
@@ -13,5 +21,5 @@ How to use
 
 ![Submail](./markdown/1.png)
 
-[点击下载](https://github.com/submail-developers/tipask_sms/archive/master.zip)
+[Github项目地址](https://github.com/submail-developers/tipask_sms)&nbsp;&nbsp;&nbsp;[点击下载](https://github.com/submail-developers/tipask_sms/archive/master.zip)
 
